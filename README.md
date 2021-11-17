@@ -1,4 +1,4 @@
-# GALATRACK.COM
+# GALATRACK
 <!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
@@ -20,7 +20,7 @@
 	<meta name="google-site-verification" content="Nr-Pj99A_VDx1IE7YxAqmv3ypZ7RXM5NFrbN7tKH43M" />
 	<meta charset="UTF-8">
 	<meta name="description" content="Irihitel Fashion We are Exclusive and Unique no matter how you wear it.">
-	<meta name="keywords" content="GALATRACK.COM, GALATRACK.com, galatrack.com, Galatrack.com">
+	<meta name="keywords" content="GALATRACK, GALATRACK, galatrack, Galatrack">
 		<meta name="author" content="chandru30-p.github.io">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
