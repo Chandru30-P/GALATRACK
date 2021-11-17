@@ -6,7 +6,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-24F1QSD4M8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-24F1QSD4M8');
+
+</script>
+	
+	<meta name="google-site-verification" content="Nr-Pj99A_VDx1IE7YxAqmv3ypZ7RXM5NFrbN7tKH43M" />
+	<meta charset="UTF-8">
+	<meta name="description" content="Irihitel Fashion We are Exclusive and Unique no matter how you wear it.">
+	<meta name="keywords" content="Irihitel Fashion, irihitel,IRIHITEL, irihitel fashion, Irihitel fashion">
+		<meta name="author" content="chandru30-p.github.io">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card">
