@@ -6,19 +6,20 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-24F1QSD4M8"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JSQQ7410TB"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-24F1QSD4M8');
+  gtag('config', 'G-JSQQ7410TB');
+
 
 </script>
 	
-	<meta name="google-site-verification" content="Nr-Pj99A_VDx1IE7YxAqmv3ypZ7RXM5NFrbN7tKH43M" />
+	<meta name="google-site-verification" content="google42b6b470f610fbd4.html"  />
 	<meta charset="UTF-8">
-	<meta name="description" content="Irihitel Fashion We are Exclusive and Unique no matter how you wear it.">
+	<meta name="description" content="Galatrack Sdn Bhd">
 	<meta name="keywords" content="GALATRACK, gALATRACK, galatrack, Galatrack">
 		<meta name="author" content="chandru30-p.github.io">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
